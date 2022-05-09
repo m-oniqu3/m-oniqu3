@@ -6,16 +6,21 @@
 
 <p align="center">I'm a passsionate frontend developer based in Jamaica,  who loves to create functional but elegant websites.</p>
 
+<div>
 
-<p align="left"> <a href="https://twitter.com/ctrlaltmonique" target="blank"><img src="https://img.shields.io/twitter/follow/ctrlaltmonique?logo=twitter&style=for-the-badge" alt="ctrlaltmonique" /></a> </p>
+  - 🔭 I’m currently working on [BookMark](https://github.com/m-oniqu3/bookmark)     - 🌱 I’m currently learning **React JS and Firebase**
 
-- 🔭 I’m currently working on [BookMark](https://github.com/m-oniqu3/bookmark)
+- 📫 How to reach me **monique.mcin8@gmail.com**    - 💬 Ask me about **anything React related**
+  
 
-- 🌱 I’m currently learning **React JS and Firebase**
+</div>
 
-- 📫 How to reach me **monique.mcin8@gmail.com**
 
-- 💬 Ask me about **anything React related**
+
+
+
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham" alt="m-oniqu3" />
@@ -36,6 +41,7 @@
 <a href="https://twitter.com/ctrlaltmonique" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ctrlaltmonique" height="30" width="40" /></a>
 </p>
 
+<p align="right"> <a href="https://twitter.com/ctrlaltmonique" target="blank"><img src="https://img.shields.io/twitter/follow/ctrlaltmonique?logo=twitter&style=for-the-badge" alt="ctrlaltmonique" /></a> </p>
 
 
 
