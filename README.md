@@ -17,7 +17,13 @@
 
 - 💬 Ask me about **anything React related**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham" alt="m-oniqu3" /></p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham" alt="m-oniqu3" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true" />
+</a>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
