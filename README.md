@@ -6,22 +6,21 @@
 
 <p align="center">I'm a passsionate frontend developer based in Jamaica,  who loves to create functional but elegant websites.</p>
  
-<div align="center">T
+
   
  - 🌱 I’m currently learning **React JS and Firebase**
  - 🔭 I’m currently working on [BookMark](https://github.com/m-oniqu3/bookmark)  
   
-</div>
+
   
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham" alt="m-oniqu3" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true" />
-</a>
+|<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham" alt="m-oniqu3" />
+</a>|
+<a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true" />
+</a>|
 
+| ------------- | ------------- |
 
 
 <h3 align="left">Languages and Tools:</h3>
