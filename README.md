@@ -6,7 +6,7 @@
 
 <p align="center">I'm a passsionate frontend developer based in Jamaica,  who loves to create functional but elegant websites.</p>
 
-<div>
+
   
   .left[
    - 🌱 I’m currently learning **React JS and Firebase**
@@ -16,9 +16,7 @@
   .right[
   - 📫 How to reach me **monique.mcin8@gmail.com**  
     - 💬 Ask me about **anything React related**
-  ]
-
-</div>
+ ]
 
 
 
