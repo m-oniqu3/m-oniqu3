@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything React related**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&" alt="m-oniqu3" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham" alt="m-oniqu3" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
