@@ -5,28 +5,14 @@
 <h1 align="center">Hi, I'm Monique !</h1>
 
 <p align="center">I'm a passsionate frontend developer based in Jamaica,  who loves to create functional but elegant websites.</p>
-
-<div>
-  
-<div align="left">T
+ 
+<div align="center">T
   
  - 🌱 I’m currently learning **React JS and Firebase**
  - 🔭 I’m currently working on [BookMark](https://github.com/m-oniqu3/bookmark)  
   
 </div>
   
-  
-<div align="right">T
-  
- - 📫 How to reach me **monique.mcin8@gmail.com**  
- - 💬 Ask me about **anything React related**
-  
-</div>
-  
-  
-</div>
-
-
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -57,9 +43,9 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-oniqu3&theme=gotham&layout=compact)](https://github.com/m-oniqu3/github-readme-stats) -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true" />
-</a>
+</a> -->
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-oniqu3&theme=gotham&layout=compact" />
 </a>
