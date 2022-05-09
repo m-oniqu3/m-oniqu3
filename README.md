@@ -7,14 +7,14 @@
 <p align="center">I'm a passsionate frontend developer based in Jamaica,  who loves to create functional but elegant websites.</p>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m-oniqu3&theme=gotham&layout=compact)](https://github.com/m-oniqu3/github-readme-stats)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-oniqu3&theme=gotham&layout=compact" />
 </a>
 <!--
 **m-oniqu3/m-oniqu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
