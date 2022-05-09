@@ -7,11 +7,16 @@
 <p align="center">I'm a passsionate frontend developer based in Jamaica,  who loves to create functional but elegant websites.</p>
 
 <div>
-
-  - 🔭 I’m currently working on [BookMark](https://github.com/m-oniqu3/bookmark)     - 🌱 I’m currently learning **React JS and Firebase**
-
-- 📫 How to reach me **monique.mcin8@gmail.com**    - 💬 Ask me about **anything React related**
   
+  .left[
+   - 🌱 I’m currently learning **React JS and Firebase**
+   - 🔭 I’m currently working on [BookMark](https://github.com/m-oniqu3/bookmark)  
+  ]
+  
+  .right[
+  - 📫 How to reach me **monique.mcin8@gmail.com**  
+    - 💬 Ask me about **anything React related**
+  ]
 
 </div>
 
