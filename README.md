@@ -7,6 +7,8 @@
 <p align="center">I'm a passsionate frontend developer based in Jamaica,  who loves to create functional but elegant websites.</p>
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true)
+
 <!--
 **m-oniqu3/m-oniqu3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
