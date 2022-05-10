@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi, I'm Monique !</h1>
 
-**<h3 align="center">I'm a passsionate frontend developer based in Jamaica,  who loves to create functional but elegant websites.</h3>**
+<p align="center">I'm a passsionate frontend developer based in Jamaica,  who loves to create functional but elegant websites.</p>
  
  ### What am I up to?
 
