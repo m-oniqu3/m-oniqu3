@@ -12,15 +12,33 @@
 - 🔭 I’m currently working on [BookMark](https://github.com/m-oniqu3/bookmark)
   
 
-<!-- ### Latest Projects 
+### Latest Projects 
 
+Here are some of the projects I have been working on recently
+<!-- 
 | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=bookmark&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=fauna&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- | -->
 
+<div align="center">
+ 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=bookmark&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=fauna&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) 
+ 
+</div>
+
+
 ### My Stats
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham" alt="m-oniqu3" /></a> | <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true" /></a> |
-| ------------- | ------------- |
+<!-- | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham" alt="m-oniqu3" /></a> | <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true" /></a> |
+| ------------- | ------------- | -->
+
+<div align="center">
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham" alt="m-oniqu3" /></a> <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true" /></a>
+ 
+</div>
+
+
 
 
 ### 💻Tech Stack
