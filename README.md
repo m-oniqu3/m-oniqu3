@@ -8,7 +8,7 @@
  
  ### What am I up to?
 
-- 🌱 I’m currently learning **React JS and Firebase** 
+- 🌱 I’m currently learning **React JS and TypeScript** 
 - 🔭 I’m currently working on [BookMark](https://github.com/m-oniqu3/bookmark)
   
 
