@@ -9,14 +9,14 @@
  ### What am I up to?
 
 - 🌱 I’m currently learning **React JS and TypeScript** 
-- 🔭 I’m currently working on [BookMark](https://github.com/m-oniqu3/bookmark)
+- 🔭 I’m currently working on [BookMark](https://github.com/m-oniqu3/bookmark-app)
   
 
 ### Latest Projects 
 
 Here are some of the projects I have been working on recently
 <!-- 
-| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=bookmark&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=fauna&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=bookmark-app&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) | [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=m-oniqu3&repo=finest-and-co&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |
 | ------------- | ------------- | -->
 
 <div align="center">
