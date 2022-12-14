@@ -49,7 +49,7 @@ Here are a few technologies and languages that I have worked with
 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-oniqu3&theme=gotham&layout=compact&hide=python" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-oniqu3&theme=gotham&layout=compact" />
 </a>
 
 
