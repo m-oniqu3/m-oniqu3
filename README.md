@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hi, I'm Monique !</h1>
+<h1 align="center">Hi, I'm Monique!</h1>
 
 <p align="center">I'm a passsionate frontend developer based in Jamaica,  who loves to create functional but elegant websites.</p>
  
