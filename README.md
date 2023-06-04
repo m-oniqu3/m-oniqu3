@@ -18,9 +18,9 @@
 
 - 🌱 Currently, I'm embarking on an exciting journey into the world of full-stack development. I'm diving deep into the realm of Node.js, Express, and MongoDB, as I believe they form the foundation of creating robust and scalable web applications.
 
-- 🚀 My primary focus right now is to master the power of Node.js and its seamless integration with Express framework. This dynamic duo allows me to build efficient and responsive server-side applications.
+- 🚀 My primary focus right now is to master the power of Node.js and its seamless integration with Express framework, so I can build efficient and responsive server-side applications.
 
-- 💡 As I progress further, my sights are set on the MERN stack, which encompasses MongoDB, Express, React, and Node.js. By combining the power of these technologies, I'll be able to develop end-to-end web applications with stunning user interfaces and performant backend architecture.
+- 💡 As I progress further, my sights are set on the MERN stack (MongoDB, Express, React, and Node.js). By combining the power of these technologies, I'll be able to develop end-to-end web applications with stunning user interfaces and performant backend architecture.
 
 - 🔭 I’m currently working on rebuilding [BookMark](https://github.com/m-oniqu3/bookmark-app) to use TypeScript and [Movie Memory, The MERN Version](https://github.com/m-oniqu3/Movie-Memory-With-Auth)
 
