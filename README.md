@@ -59,7 +59,7 @@ Here are some of the projects I have been working on recently
 
 <div align="left">
  
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham&hide_border=true" alt="m-oniqu3" /></a> <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true&hide_border=true&card_width=400px" /></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=m-oniqu3&theme=gotham&hide_border=true" alt="m-oniqu3" /></a> <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=m-oniqu3&theme=gotham&show_icons=true&hide_border=true&card_width=400px&hide_rank=true" /></a>
  
 </div>
 
