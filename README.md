@@ -2,7 +2,7 @@
 
 
 
-<h1 align="left">Hi, I'm Monique!</h1>
+<h3 align="left">Hi, I'm Monique!</h3>
 
 <p align="left"> 👋 &nbsp; Hey there! I'm a passionate frontend developer based in Jamaica, specializing in creating functional yet elegant websites. With a keen eye for detail and a love for clean code, I strive to deliver exceptional user experiences through my work. 
 
